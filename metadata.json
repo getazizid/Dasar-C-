@@ -1,0 +1,6 @@
+{
+  "name": "Belajar C++ Interaktif & Online Compiler",
+  "description": "Platform edukasi pemrograman C++ dasar lengkap dari variabel, tipe data, perulangan hingga OOP dengan online compiler C++ interaktif, tantangan coding, dan AI code tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
