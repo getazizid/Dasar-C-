@@ -250,8 +250,9 @@ export default function App() {
             </button>
           </div>
 
-          <div className="text-slate-500">
-            Siap Deploy ke <span className="text-slate-900 font-semibold">Vercel</span> (Node / Vite SPA)
+          <div className="text-slate-600 font-medium flex items-center gap-1.5">
+            <span>Created by :</span>
+            <span className="text-slate-900 font-bold">Abdul Aziz., S.Kom., Gr</span>
           </div>
         </div>
       </footer>
